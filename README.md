@@ -1,15 +1,5 @@
-# Sistema de Rastreamento Corporativo
+# Sistema de Rastreamento
 
-Sistema profissional para rastreamento de pedidos com dark mode.
-
-## Instalação
-
-```bash
-npm install
-npm run dev
-```
-
-Acesse: http://localhost:3000
 
 ## Funcionalidades
 
@@ -20,19 +10,3 @@ Acesse: http://localhost:3000
 - ✅ Interface responsiva e profissional
 - ✅ Tratamento de erros e loading states
 
-## Configuração
-
-Configure a URL da planilha no `.env.local`:
-
-```
-NEXT_PUBLIC_SHEET_URL=sua_url_aqui
-```
-
-## Tecnologias
-
-- Next.js 14 + TypeScript
-- Tailwind CSS + Dark Mode
-- Framer Motion
-- TanStack Query
-- date-fns
-- next-themes
